@@ -58,5 +58,15 @@
     "to_date": "2026-07-20",
     "total": 0,
     "status": "confirmed"
+  },
+  {
+    "id": 7,
+    "equipment_id": 2,
+    "equipment_name": "Cordless Drill",
+    "customer": "Jade Joe",
+    "from_date": "2026-07-20",
+    "to_date": "2026-07-20",
+    "total": 480.0,
+    "status": "confirmed"
   }
 ]
