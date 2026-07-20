@@ -28,5 +28,35 @@
     "to_date": "2026-01-26",
     "total": 11340.0,
     "status": "confirmed"
+  },
+  {
+    "id": 4,
+    "equipment_id": 1,
+    "equipment_name": "Canon DSLR Camera",
+    "customer": "Me",
+    "from_date": "2026-07-20",
+    "to_date": "2026-07-20",
+    "total": 0,
+    "status": "confirmed"
+  },
+  {
+    "id": 5,
+    "equipment_id": 1,
+    "equipment_name": "Canon DSLR Camera",
+    "customer": "are",
+    "from_date": "2026-07-20",
+    "to_date": "2026-07-21",
+    "total": 0,
+    "status": "confirmed"
+  },
+  {
+    "id": 6,
+    "equipment_id": 1,
+    "equipment_name": "Canon DSLR Camera",
+    "customer": "are",
+    "from_date": "2026-07-20",
+    "to_date": "2026-07-20",
+    "total": 0,
+    "status": "confirmed"
   }
 ]
