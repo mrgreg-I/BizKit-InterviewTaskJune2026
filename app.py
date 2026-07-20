@@ -92,7 +92,7 @@ def calculate_total(daily_rate, days):
 
     TODO (Task 2): implement.
     """
-    return 0
+    return daily_rate * days * (0.9 if days >= 7 else 1.0)
 
 
 # ---------------------------------------------------------------------------
